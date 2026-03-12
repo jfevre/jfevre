@@ -1,13 +1,24 @@
 [
   {
     "type": "normal",
-    "fileName": "profile-3d.svg",
+    "fileName": "profile-3d-dark.svg",
     "backgroundColor": "#0d1117",
     "foregroundColor": "#ffffff",
     "contribColors": ["#3a3a3a", "#ff6b35", "#ff8c5a", "#ffad7f", "#ffcea4"],
     "growingAnimation": true,
-    "isDisplayDistributionChart": false,
-    "isDisplayRadarChart": false,
-    "isDisplayContribInfo": false
+    "showDistribution": false,
+    "showRadar": false,
+    "showInfo": false
+  },
+  {
+    "type": "normal",
+    "fileName": "profile-3d-light.svg",
+    "backgroundColor": "#f5f5f5",
+    "foregroundColor": "#1a1a1a",
+    "contribColors": ["#e0e0e0", "#1f5f1f", "#2d862d", "#3ba63b", "#4dc64d"],
+    "growingAnimation": true,
+    "showDistribution": false,
+    "showRadar": false,
+    "showInfo": false
   }
 ]

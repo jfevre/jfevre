@@ -72,7 +72,7 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-3d.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-3d.svg">
-  <img alt="3D Contributions" src="./profile-3d-contrib/profile-3d.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-3d-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-3d-light.svg">
+  <img alt="3D Contributions" src="./profile-3d-contrib/profile-3d-dark.svg">
 </picture>
