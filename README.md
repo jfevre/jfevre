@@ -34,9 +34,9 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,ansible,linux,windows,py,github,githubactions,bitbucket&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,ansible,linux,windows,py,github,githubactions,bitbucket&theme=light">
-    <img alt="Tech Stack" src="https://skillicons.dev/icons?i=aws,terraform,docker,ansible,linux,windows,py,github,githubactions,bitbucket&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,ansible,linux,windows,python,github,git,bash&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,ansible,linux,windows,python,github,git,bash&theme=light">
+    <img alt="Tech Stack" src="https://skillicons.dev/icons?i=aws,terraform,docker,ansible,linux,windows,python,github,git,bash&theme=dark">
   </picture>
 </p>
 
@@ -67,7 +67,7 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
-  <img alt="3D Contributions" src="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-3d.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-3d.svg">
+  <img alt="3D Contributions" src="./profile-3d-contrib/profile-3d.svg">
 </picture>
