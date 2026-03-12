@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&pause=1000&color=1F5F1F&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=2000&pause=500&color=1F5F1F&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
   </picture>
 </p>
 
@@ -32,18 +32,13 @@
 
 ### Tools of the trade
 
-<a href="https://aws.amazon.com" target="_blank"> <img align="left" alt="AWS" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/> </a>
-<a href="https://www.terraform.io" target="_blank"> <img align="left" alt="Terraform" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"/> </a>
-<a href="https://www.docker.com" target="_blank"> <img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/> </a>
-<a href="https://www.ansible.com" target="_blank"> <img align="left" alt="Ansible" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"/> </a>
-<a href="https://www.linux.org" target="_blank"> <img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> </a>
-<a href="https://www.microsoft.com/windows" target="_blank"> <img align="left" alt="Windows" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"/> </a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> </a>
-<a href="https://github.com" target="_blank"> <img align="left" alt="GitHub" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/> </a>
-<a href="https://github.com/features/actions" target="_blank"> <img align="left" alt="GitHub Actions" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"/> </a>
-<a href="https://bitbucket.org" target="_blank"> <img align="left" alt="Bitbucket" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg"/> </a>
-
-<br><br>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,ansible,linux,windows,py,github,githubactions,bitbucket&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,ansible,linux,windows,py,github,githubactions,bitbucket&theme=light">
+    <img alt="Tech Stack" src="https://skillicons.dev/icons?i=aws,terraform,docker,ansible,linux,windows,py,github,githubactions,bitbucket&theme=dark">
+  </picture>
+</p>
 
 ---
 
