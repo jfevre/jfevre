@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=true&width=500&height=175&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=2000&pause=500&color=1F5F1F&center=true&vCenter=true&multiline=true&width=500&height=175&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=true&width=500&height=175&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=1200&pause=300&color=FF6B35&center=true&vCenter=true&multiline=true&width=500&height=175&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=1200&pause=300&color=1F5F1F&center=true&vCenter=true&multiline=true&width=500&height=175&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=1200&pause=300&color=FF6B35&center=true&vCenter=true&multiline=true&width=500&height=175&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
   </picture>
 </p>
 
@@ -43,6 +43,7 @@
 <a href="https://github.com" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><img alt="GitHub" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></picture></a>
 <a href="https://github.com/features/actions" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"><img alt="GitHub Actions" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"/></picture></a>
 <a href="https://bitbucket.org" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg"><img alt="Bitbucket" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg"/></picture></a>
+<a href="https://www.home-assistant.io" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/homeassistant/white"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/homeassistant"><img alt="Home Assistant" height="42px" src="https://cdn.simpleicons.org/homeassistant"/></picture></a>
 </p>
 
 ---
