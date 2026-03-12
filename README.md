@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=2000&pause=500&color=1F5F1F&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=true&width=500&height=175&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=2000&pause=500&color=1F5F1F&center=true&vCenter=true&multiline=true&width=500&height=175&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=true&width=500&height=175&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
   </picture>
 </p>
 
@@ -76,3 +76,7 @@
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-3d-light.svg">
   <img alt="3D Contributions" src="./profile-3d-contrib/profile-3d-dark.svg">
 </picture>
+
+---
+
+<img src="./isocalendar.svg" alt="Isometric Calendar" width="100%">
