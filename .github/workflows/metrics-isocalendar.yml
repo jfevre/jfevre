@@ -8,24 +8,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.PAT }}
       - uses: lowlighter/metrics@latest
         with:
           filename: isocalendar.svg
           token: ${{ secrets.PAT }}
+          committer_token: ${{ secrets.PAT }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: Europe/London
-          output_action: none
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          mv /metrics_renders/isocalendar.svg ./isocalendar.svg
-          git add -A .
-          git diff --quiet && git diff --staged --quiet || git commit -m "generated isocalendar"
-          git push
