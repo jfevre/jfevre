@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=1200&pause=300&color=FF6B35&center=true&vCenter=true&multiline=true&width=500&height=175&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=1200&pause=300&color=1F5F1F&center=true&vCenter=true&multiline=true&width=500&height=175&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=1200&pause=300&color=FF6B35&center=true&vCenter=true&multiline=true&width=500&height=175&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=1200&pause=300&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=175&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=1200&pause=300&color=1F5F1F&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=175&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&duration=1200&pause=300&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=175&lines=Hi%2C+my+name+is;John+Fevre;I+build+things+in+the+cloud.">
   </picture>
 </p>
 
